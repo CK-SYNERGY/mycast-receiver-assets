@@ -14,3 +14,16 @@
 .progressBar {
   background-color: #cc3364;
 }
+
+/* Current CAF player variables; keep the legacy selectors above for previews. */
+cast-media-player {
+  --background-color: #1b1524;
+  --background-image: url("https://ck-synergy.github.io/mycast-receiver-assets/background.png");
+  --background-size: cover;
+  --logo-image: url("https://ck-synergy.github.io/mycast-receiver-assets/icon.png");
+  --logo-size: 22%;
+  --splash-color: #1b1524;
+  --splash-image: url("https://ck-synergy.github.io/mycast-receiver-assets/background.png");
+  --splash-size: cover;
+  --progress-color: #cc3364;
+}
